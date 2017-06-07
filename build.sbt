@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 name := """LunchApp"""
-=======
+
 name := """lunch_app"""
->>>>>>> 2383ffe564a016bbf81cacaa74fa19d0c90c45e7
+
 organization := "com.example"
 
 version := "1.0-SNAPSHOT"
